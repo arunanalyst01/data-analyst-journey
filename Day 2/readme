@@ -1,0 +1,13 @@
+# SQL Practice – My Learning Journey 🧠
+
+This repository contains 15+ real SQL query examples I personally practiced. It covers the most commonly used SQL operations such as:
+
+- TOP and LIMIT
+- DISTINCT
+- Multiple Queries
+- Static Values
+- WHERE Operators
+- DDL (CREATE, DROP)
+- DML (INSERT, UPDATE, DELETE)
+
+Feel free to use this for your own learning and improvement.
