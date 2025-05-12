@@ -9,5 +9,8 @@ This repository contains 15+ real SQL query examples I personally practiced. It 
 - WHERE Operators
 - DDL (CREATE, DROP)
 - DML (INSERT, UPDATE, DELETE)
+## 📅 Day 2 - Power BI Dashboard
 
-Feel free to use this for your own learning and improvement.
+✅ Created visuals for Total Sales, Profit, Top Products, and Trend  
+✅ Added Region Slicer for interactivity  
+![Day 2 Dashboard](dashboard_day2.png)
