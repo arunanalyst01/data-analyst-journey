@@ -1,0 +1,77 @@
+# 📊 Sales Data Analysis & Dashboard Project
+
+## 🔍 Overview
+This project analyzes sales data to uncover key business insights and presents them through a clean and interactive dashboard using Excel. It includes data cleaning, analysis with pivot tables, and visualization for decision-making support.
+
+---
+
+## 🧩 Dataset
+- **Source:** [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- **Format:** CSV
+- **Fields:** Order Date, Ship Mode, Segment, Country, City, State, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit
+
+---
+
+## 🛠 Tools Used
+- **Microsoft Excel** – Data cleaning, pivot tables, charts, dashboard
+- *(Optional in future)*:
+  - **Power BI / Tableau** – Interactive dashboards
+  - **Python (Pandas/Matplotlib)** – Advanced analysis
+
+---
+
+## 🧾 Objectives
+- Clean and prepare sales data
+- Perform exploratory data analysis (EDA)
+- Identify key metrics (total sales, profit, top products, regional performance)
+- Create visual dashboards with slicers and charts
+- Summarize insights for business decision-making
+
+---
+
+## 🧪 Steps Performed
+
+### 1. Data Import & Understanding
+- Loaded the dataset in Excel
+- Reviewed column types, checked for inconsistencies
+
+### 2. Data Cleaning
+- Fixed date formatting
+- Removed blank rows and duplicates
+- Handled missing values if any
+
+### 3. Data Analysis (EDA)
+- Created Pivot Tables for:
+  - Sales by Region
+  - Sales by Month
+  - Profit by Category/Sub-Category
+  - Top 10 selling products
+
+### 4. Visualization
+- Charts Created:
+  - Line chart for monthly sales trends
+  - Bar chart for top products
+  - Pie chart for category sales
+  - Heatmap for Region vs Category
+
+### 5. Dashboard Creation
+- Combined charts and slicers in a clean layout
+- Made data filterable by Region, Category, and Date
+
+### 6. Business Insights
+- Found most/least profitable regions and products
+- Identified high-discount, low-profit segments
+- Suggested business actions for growth
+
+---
+
+## 📈 Sample Insights
+- 📌 West Region contributed highest profit
+- 📉 Furniture category had high sales but low profit
+- 🛍️ “Binders” was one of the top-selling sub-categories
+- ⚠️ High discounts in the “Tables” category led to loss
+
+---
+
+## 📁 Project Structure
+
