@@ -1,12 +1,16 @@
-ffjcd "Daily Progress"
+This repository documents my SQL learning progress. I'm building a solid foundation to become a professional Data Analyst. Even though I felt sick today 🤒, I stayed consistent and pushed forward.
 
-# Rename folders
-git mv "Day3 this is day 3" "Day 3"
-git mv "Day4 this is Day 4" "Day 4"
+---
 
-cd ..
+## ✅ Topics I Covered Today
 
-# Commit and push changes
-git add .
-git commit -m "Renamed Day3 and Day4 folders to proper format"
-git push origin main  # Change 'main' to 'master' if your branch is named that
+### 🔗 1. SQL JOINs
+Practiced and understood different types of JOINs with example queries:
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- LEFT ANTI JOIN
+- RIGHT ANTI JOIN
+- CROSS JOIN
