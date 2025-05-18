@@ -1,0 +1,9 @@
+## 🧹 Data Cleaning Steps
+
+The dataset was cleaned using Microsoft Excel and includes the following steps:
+
+- ✅ Removed missing or null values in critical columns
+- ✅ Standardized date formats to `DD-MM-YYYY`
+- ✅ Trimmed whitespaces in text fields
+- ✅ Removed invalid entries (e.g., negative quantity, zero sales and profit)
+- ✅ Sorted the data chronologically by order date
