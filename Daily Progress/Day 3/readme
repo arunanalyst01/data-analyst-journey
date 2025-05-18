@@ -1,0 +1,22 @@
+# 🔗 SQL JOIN Practice
+
+In this project, I practiced different types of SQL JOINs using simple tables.
+
+## ✅ What I did
+
+- Used `INNER JOIN` to get matching data from two tables
+- Used `LEFT JOIN` to show all data from the left table even if there’s no match
+- Used `RIGHT JOIN` to show all data from the right table even if there’s no match
+- Used `FULL JOIN` to show all data from both tables with NULLs where there’s no match
+
+## 🧪 Sample Tables
+
+- `Customers`
+- `Orders`
+
+## 📂 Tools Used
+
+- SQL SERVER
+## 🧠 Purpose
+
+To understand how JOINs work and how to get useful data from multiple tables.
