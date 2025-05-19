@@ -1,0 +1,10 @@
+This repository contains a cleaned version of raw Excel data. The goal of this project is to transform messy, unstructured Excel datasets into clean, structured, and analysis-ready formats.
+## 🧽 Cleaning Tasks Performed
+
+- Removed blank rows and columns
+- Fixed inconsistent column names (e.g., renamed headers, removed special characters)
+- Handled missing values (e.g., filled, removed, or flagged)
+- Standardized date formats
+- Trimmed whitespace and corrected text case
+- Removed duplicates
+- Converted data types (e.g., strings to numbers or dates)
