@@ -1,0 +1,21 @@
+# 🔗 SQL Joins
+
+This folder contains practice queries, examples, and notes related to **SQL JOINs**. Joins are used to combine rows from two or more tables, based on a related column between them.
+
+---
+
+## 📘 Topics Covered
+
+- ✅ INNER JOIN
+- ✅ LEFT JOIN
+- ✅ RIGHT JOIN
+- ✅ FULL OUTER JOIN
+- ✅ CROSS JOIN
+- ✅ SELF JOIN
+- ✅ JOIN with GROUP BY
+- ✅ JOIN in Subqueries
+
+---
+
+## 📁 File Structure
+
