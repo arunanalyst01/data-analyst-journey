@@ -1,1 +1,15 @@
-qddpqj
+ SQL String Functions Practice
+
+This repository contains my hands-on practice with **SQL string functions** as part of my journey to become a **Data Analyst**. I focused on functions that are commonly used in data cleaning and transformation.
+
+✅ Covered Topics
+
+String Functions Practiced:
+
+- `TRIM()` – Remove unwanted spaces from text
+- `LEFT()` / `RIGHT()` – Extract characters from start or end
+- `SUBSTRING()` – Extract text from the middle
+- `REPLACE()` – Replace parts of a string
+- `CONCAT()` – Combine multiple strings into one
+- `UPPER()` / `LOWER()` – Convert text case
+- LEN()
