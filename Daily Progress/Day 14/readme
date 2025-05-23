@@ -1,1 +1,28 @@
-asdfghjk
+## ✅ Topics Covered Today
+
+### 🔢 1. Numeric Functions
+- **ROUND()**
+  - Used to round numbers to a specific number of decimal places.
+  - Practiced with different decimal positions: `ROUND(3.432, 2)`, `ROUND(3.432, 1)`, `ROUND(3.432, 0)`
+- **ABS()**
+  - Returns the absolute (positive) value of a number.
+  - Practiced using: `ABS(-10)`
+
+---
+
+### 📅 2. Date & Time Functions (with SalesDB)
+- **YEAR(), MONTH(), DAY()**
+  - Extracted parts from the `CreationTime` column.
+- **DATEPART()**
+  - Practiced extracting: Year, Month, Day, Hour, Quarter, Week.
+- **DATENAME()**
+  - Used to extract the *name* of the month and weekday.
+
+---
+
+### 🔍 3. Use Case Practiced
+**🟢 Query:** “How many orders came on weekends?”
+
+- Learned how to filter orders by **weekend days** (Saturday & Sunday) using:
+  ```sql
+  SET DATEFIRST 7;
