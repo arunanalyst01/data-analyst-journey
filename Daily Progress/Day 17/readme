@@ -1,1 +1,7 @@
-asdfghj
+# SQL Date Functions Project
+
+This SQL file demonstrates the use of key date and time functions in SQL Server.  
+It includes examples of `CAST`, `DATEADD`, and `DATEDIFF` for real-world use cases.  
+You’ll see how to calculate age, shipping duration, and time gaps between orders.  
+Used on tables like `Sales.Orders` and `Sales.Employees` in a sample `SalesDB` database.  
+Useful for practicing business-focused SQL queries with temporal data.
